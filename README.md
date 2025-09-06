@@ -97,11 +97,6 @@ The image is displayed on screen and can be downloaded in its original form.
 
 ---
 
-## 📸 Demo Preview
-(Insert a screenshot or GIF of the UI here)
-
----
-
 ## ⚖️ License
 This project is open-source under the **MIT License**.  
 Feel free to use, modify, and share.
